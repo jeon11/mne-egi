@@ -1,11 +1,11 @@
 ## Introduction
 The walkthrough.py code suggests for general pipeline of EEG preprocessing to ERP plotting using the MNE toolbox (https://mne-tools.github.io/stable/index.html).
 
-The walkthrough_basics.ipynb runs through the basics from reading in raw instace and creating metadata using custom codes for the experiment to creating epochs and plotting evoked responses by condition using the created metadata.
+The [walkthrough_basics.ipynb](https://github.com/jeon11/mne-egi/blob/master/walkthrough_basics.ipynb) runs through the basics from reading in raw instace and creating metadata using custom codes for the experiment to creating epochs and plotting evoked responses by condition using the created metadata.
 
-The walkthrough_advanced.ipynb runs independent component analysis to reject bad ICs and uses automated autoreject module to further clean the data. With the cleaned epochs and evoked response, we compare the results to the original data processed from walkthrough_basics.
+The [walkthrough_advanced.ipynb](https://github.com/jeon11/mne-egi/blob/master/walkthrough_advanced.ipynb) runs independent component analysis to reject bad ICs and uses automated autoreject module to further clean the data. With the cleaned epochs and evoked response, we compare the results to the original data processed from walkthrough_basics.
 
-To run the code locally, see dependencies. 
+To run the code locally, see dependencies.
 
 
 ### dependencies:
