@@ -6,9 +6,11 @@ from matplotlib import pyplot as plt
 from mne.preprocessing import eog
 from mne.preprocessing import create_eog_epochs
 import Tkinter
+import os
+import sys
+sys.path.append(os.getcwd() + '/helper')
 import extract_nslog_event
-import scipy-eog
-
+import scipy_eog
 
 ###########################################
 #       Setup and Basic Preprocessing     #
