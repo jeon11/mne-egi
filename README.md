@@ -1,7 +1,7 @@
 ## Introduction
 #### Example Results:
-![Creating Epochs]((https://github.com/jeon11/mne-egi/blob/master/img/eeg-epoch.png))
-![Using ICA]((https://github.com/jeon11/mne-egi/blob/master/img/eeg-ica.png))
+![]((https://github.com/jeon11/mne-egi/blob/master/img/eeg-epoch.png))
+![]((https://github.com/jeon11/mne-egi/blob/master/img/eeg-ica.png))
 
 The walkthrough.py code suggests for general pipeline of EEG preprocessing to ERP plotting using the MNE toolbox (https://mne-tools.github.io/stable/index.html).
 
